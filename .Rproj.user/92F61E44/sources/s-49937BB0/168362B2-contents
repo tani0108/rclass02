@@ -1,0 +1,16 @@
+#vector is atomic vector (숫자,문자,논리 중 1)
+#list is recursive vector (list = 숫자v+문자v+논리v)
+#점(스칼라) a return(.....)
+#-선-면-큐브
+
+x <- c("김진욱",30,186.5,5000,T)
+x
+lst <- list("김진욱",30,186.5,5000,T)
+lst
+lst[[1]]
+x[1]
+lst<-list(name="김진욱",height=186.5,sal=5000,employee=T)
+lst
+lst$name
+#$:list내의 atrrrib만을 축출
+length(lst)

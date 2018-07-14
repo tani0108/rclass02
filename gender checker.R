@@ -34,3 +34,7 @@ gender<-function(x){
                  '잘못된값'))}
 
 gender('800201-2')
+
+
+getwd()
+

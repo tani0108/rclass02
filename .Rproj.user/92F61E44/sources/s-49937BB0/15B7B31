@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531557295178.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1641027367",
+    "id" : "15B7B31",
+    "lastKnownWriteTime" : 1531558341,
+    "last_content_update" : 1531559697366,
+    "path" : "~/project180714/Excel Demo.R",
+    "project_path" : "Excel Demo.R",
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
